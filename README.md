@@ -10,7 +10,7 @@ We built it using Vite, and Tailwind CSS and lucid-react.
 ## Setup
 Navigate to frontend/ dir and run ```npm run dev```
 ## Contributors
-
+Luciano Scarpaci and Francesca Dumary
 ## Demo video
 
 ## Screenshots
