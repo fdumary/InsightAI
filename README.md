@@ -14,3 +14,5 @@ Luciano Scarpaci and Francesca Dumary
 ## Demo video
 
 ## Screenshots
+![Screenshot 1](./screenshots/Screen%20Shot%202025-12-06%20at%204.42.48%20PM.png)
+![Screenshot 2](./screenshots/Screen%20Shot%202025-12-06%20at%204.43.08%20PM.png)
