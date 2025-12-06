@@ -14,6 +14,7 @@ Navigate to frontend/ dir and run ```npm run dev```
 ## Contributors
 Luciano Scarpaci and Francesca Dumary
 ## Demo video
+https://youtu.be/BgUUx2l7M08
 
 ## Screenshots
 ![Screenshot 1](./screenshots/Screen%20Shot%202025-12-06%20at%204.42.48%20PM.png)
